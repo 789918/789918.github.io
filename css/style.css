@@ -101,7 +101,7 @@ h1{
     color: white;
 }
 .fa:hover{
-    opacity: .10;
+    opacity: .50;
 }
 .footer_copyright{
     margin-left: 1rem;
@@ -112,3 +112,11 @@ h1{
 h2{
     color: red;
 }
+.section{
+    color: red;
+}
+
+  
+
+
+
