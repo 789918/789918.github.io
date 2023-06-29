@@ -95,19 +95,34 @@ h1{
 .fa-linkedin{
     background: blue;
     color: white;
+    float: left;
+    margin-right: 50px;
 }
 .fa-github{
     background: black;
     color: white;
+    float: left;
+    margin-right: 50px;
+}
+.fa-twitter{
+    background:white;
+    color: blue;
+    margin-right: 50px;
+}
+.fa-facebook{
+    background: white;
+    color: blue;
+    margin-right: 50px;
 }
 .fa:hover{
-    opacity: .50;
+    opacity: .100;
 }
 .footer_copyright{
     margin-left: 1rem;
 }
 .footer_social{
-    margin-right: 1rem;
+    margin-right: 5rem;
+    
 }
 h2{
     color: red;
